@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+	padding: 0;
+	background-color: #343a40;
+}
+
+.loginPage{
+	margin-top: 5%;
+}
+
+
+.form-footer{
+    background-color: #49505726;
+    position: relative;
+    height: 59px;
+    margin-top: 20px;
+    padding: 14px 10px 0px 0px;
+}

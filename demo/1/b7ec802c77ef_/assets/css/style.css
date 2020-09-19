@@ -1,0 +1,27 @@
+.logo img {
+    max-height: 46px;
+}
+
+.pmd-sidebar .pmd-sidebar-nav li a i {
+   font-size: 19px;
+}
+
+.pmd-tabs .pmd-tab-active-bar{
+	background: #4284f4;
+}
+
+.pmd-tabs {
+    border-bottom: 1px solid #4284f426;
+}
+
+.blind {
+	display: none;
+}
+
+.logo-preview img, .favicon-preview img {
+	max-height: 78px;
+    position: relative;
+    top: -35px;
+    left: 137px;
+    border: 2px solid #dededed9; 
+}
